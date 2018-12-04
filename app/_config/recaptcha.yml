@@ -1,0 +1,3 @@
+SilverStripe\Recaptcha\RecaptchaField:
+  public_api_key: "6LcapX4UAAAAAKm5L9NUrwmHmR5RdRwKI-pVG7jr"
+  private_api_key: "6LcapX4UAAAAAPqVrfbaP8SI-WQMnn2RA05_7Tvq"
